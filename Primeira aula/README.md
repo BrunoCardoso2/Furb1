@@ -1,8 +1,8 @@
-O que é estrutura de dados? <h6>
+a) O que é estrutura de dados? <h3>
 R: É um local especifico que é utilizado para guardar dados que serão manipulados futuramente.
-Qual sua importância?
+b) Qual sua importância?  <h3>
 R: Facilitar a obtenção de dados, deixando mais pratico para serem acessados.  
-Explique e exemplifique as estruturas: array (estático e dinâmico), lista, fila e pilha.  
+c) Explique e exemplifique as estruturas: array (estático e dinâmico), lista, fila e pilha.  <h3>
 R: array: estatico é usado para armazernar um numero fixo de elementos do mesmo tipo.  
    array: dinamico é tambem uma coleção de elementos do mesmo tipo, mas o numero de elementos pode ser mudado no decorrer do codigo.  
    lista: é uma coleção que possui uma ordem dos elementos que podem ser adicionados ou removidos.  
