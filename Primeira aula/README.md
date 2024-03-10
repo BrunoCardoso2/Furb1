@@ -1,4 +1,4 @@
-O que é estrutura de dados?
+######O que é estrutura de dados? <h6>
 R: É um local especifico que é utilizado para guardar dados que serão manipulados futuramente.
 Qual sua importância?
 R: Facilitar a obtenção de dados, deixando mais pratico para serem acessados.
